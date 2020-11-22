@@ -7,3 +7,5 @@ do
 	echo $RANDOM
 	sleep 1
 done
+
+echo "done"
