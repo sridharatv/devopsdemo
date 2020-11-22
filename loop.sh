@@ -11,6 +11,7 @@ do
 	sleep 1
 	if [ $c -eq 10 ]; then
 		break
+	fi
 done
 
 echo "done"
