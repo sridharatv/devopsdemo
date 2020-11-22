@@ -8,8 +8,8 @@ while $true
 do
 	c=`expr $c + 1`
 	echo $RANDOM
-	sleep 1
-	if [ $c -eq 10 ]; then
+	sleep 2
+	if [ $c -eq 20 ]; then
 		break
 	fi
 done
