@@ -13,5 +13,3 @@ get_rand
 # this line is edited in branch
 
 # after the changes
-
-# additional changes
